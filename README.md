@@ -1,5 +1,7 @@
 # CineAI - Movie Recommendation System
 
+## THE APP MIGHT TAKE SOME TIME TO WORK DUE TO API COLD STAT
+
 A sophisticated movie recommendation system powered by multiple AI engines including embedding-based search, TF-IDF analysis, and hybrid approaches. Features real-time movie data, sentiment analysis, and AI-powered movie summaries.
 
 LIVE APP : https://junaidariie.github.io/CineAI/
